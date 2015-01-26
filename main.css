@@ -1,0 +1,53 @@
+/*--GENERAL--*/
+
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+	color: #666;
+	font-size: 16px;
+}
+
+/*--CLASSES--*/
+
+.container {
+	margin: 25px 0 0 27px;
+}
+
+.boxed {
+	margin-top: 30px;
+	border: 1px solid #ccc;
+}
+
+.boxed > h2 {
+	margin: 29px 0 31px 30px;
+}
+
+/*--TAGS--*/
+
+ul {
+	line-height: 2em;
+	margin: 0 0 40px 28px;
+}
+
+li {
+	text-indent: 2px
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #F07C17;
+	margin-bottom: 30px
+}
+
+img {
+	max-width: 375px;
+	margin: 20px 1px 0 0;
+}
+
+p {
+	line-height: 2em;
+}

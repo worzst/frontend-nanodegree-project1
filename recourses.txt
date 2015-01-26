@@ -1,0 +1,7 @@
+I used a few recourse pages just to remind me of attribute names or the order for the padding pixel numbers.
+
+margin, padding, list style:
+http://www.w3schools.com/css
+
+I never worked with bootstrap so I read a little bit how things work in the documentation (grid system, images):
+http://getbootstrap.com/css/
